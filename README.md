@@ -17,9 +17,9 @@
 
  ## Screenshots of the Project
 
- ![Project in Neutral State.](../02-Challenge/Assets/images/js_Neutral_state.png)
- ![Project in Correct State.](../02-Challenge/Assets/images/js_Correct_answer.png)
- ![Project in Incorrect State.](../02-Challenge/Assets/images/js_Incorrect_answer.png)
+ ![Project in Neutral State.](./images/js_Neutral_state.png)
+ ![Project in Correct State.](./images/js_Correct_answer.png)
+ ![Project in Incorrect State.](./images/js_Incorrect_answer.png)
 
  ## Link to Deployed Project
 
