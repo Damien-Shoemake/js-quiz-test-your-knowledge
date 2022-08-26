@@ -199,9 +199,7 @@ function setScore() {
             logScore: scoreEl.value,
             name: nameEl.value
         }
-        // this keeps the code from appending a billion children, seriously this bug took me 3 hours to fix
-        // and there's probably a much better way still ;_;
-        body.removeChild(body.lastElementChild)
+
         // set score in the local storage, and append a footer onto the bottom of the page with a score
         localStorage.setItem("logScore", JSON.stringify(score));
         var scoreShow = document.createElement("footer");
